@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Health</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidGhhY2hwaGFuIiwiYSI6ImNsdnZxbHlsdzF5bWkycnJyZWcyZWRsZDgifQ.aA98wvQP0cUWkAtaS91wOg</string>
+</resources>
